@@ -48,17 +48,7 @@ Hand-Gesture-Recognition/
 
 ## 📸 Screenshots
 
-### Gesture A
-
-![Gesture A](./screenshots/HandA.png)
-
-### Gesture B
-
-![Gesture B](./screenshots/HandB.png)
-
-### Gesture C
-
-![Gesture C](./screenshots/HandC.png)
+A: ![Gesture A](./screenshots/HandA.png) B: ![Gesture B](./screenshots/HandB.png) C: ![Gesture C](./screenshots/HandC.png)
 
 ## ⚙️ Installation
 
